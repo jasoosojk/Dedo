@@ -1,5 +1,4 @@
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
-import random
+
 
 # List of galis
 galis = [
@@ -51,6 +50,4 @@ def main():
     updater.idle()
 
 if __name__ == '__main__':
-    main()
-_ == '__main__':
     main()
